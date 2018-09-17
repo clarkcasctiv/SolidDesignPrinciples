@@ -1,0 +1,23 @@
+﻿SOLID design Principles
+
+S : Single Responsibility Principle (S.R.P).
+
+So the whole Point of the Single Responsibility Principle is that a typical class is responsible for one thing and has one reason to change
+
+O : Open-closed Principle (O.C.P).
+
+Open closed principle states that classes should be open for extension, which means it should be possible to extend the product filter class and it should be possible to make new filters but they should be closed for modification which means nobody should be going to the back into the filter and actually editing the code which is already there
+
+L : Liskov Substitution Principle (L.S.P).
+
+L.S.P basically says that you should always be able to sort of upcast to a base type and the operation should be still OK, means that this quiz should still behave as a square even when your getting reference to a rectangle
+
+I : Interface Segregation Principle (I.S.P).
+
+“Interface Segregation Principle”, A basic idea that if you have an interface which include too much stuff then just break it up it apart into smaller interface.
+
+D : Dependency Inversion Principle (D.I.P).
+
+D.I.P is very simple and it states that high level parts of the system should not depend on low level parts of the system directly that instead they should depend on some kind of abstraction.
+
+

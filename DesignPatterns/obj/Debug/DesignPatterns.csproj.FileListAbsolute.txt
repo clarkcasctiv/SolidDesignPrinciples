@@ -1,0 +1,10 @@
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\bin\Debug\System.ValueTuple.dll
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\bin\Debug\System.ValueTuple.xml
+D:\PUJAN pc\C# projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CopyComplete
